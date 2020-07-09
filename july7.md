@@ -1,6 +1,7 @@
 (1)In Laurence Maroney’s video, What is ML, he compares traditional programming with machine learning and argues that the main difference between the two is a reorientation of the rules, data and answers.  According to Maroney, what is the difference between traditional programming and machine learning?
 
-According to Maroney, the traditional programing is 
+According to Maroney, the traditional programing is when it is us humans taking in rules and data and answers coming out. Traditional programming involves the programmmers manually figuring out the rules for the answers we get. Meanwhile, machine learning involves inputting the answers into a machine and having it figure out the rules for the programmer.
+
 
 
 (2)With the first basic script that Maroney used to predict a value output from the model he estimated (he initially started with 10 that predicted ~31.  Modify the predict function to produce the output for the value 7.  Do this twice and provide both answers.  Are they the same?  Are they different?  Why is this so?
