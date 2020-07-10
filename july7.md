@@ -19,3 +19,4 @@ print(model.predict([7.0]))
 
 **(3)Using the script you produced to predict housing price, take the provided six houses and train a neural net model that estimates the relationship between them.  Based on this model, which of the six homes present a good deal?  Which one is the worst deal?  Justify your answer.**
 
+Based on my model, the house at Holly Point Rd. presents the best deal as you would be spending $134,365 less than what the model predicted. Meanwhile, the house in Church St. would present the worst deal as you would be paying $98,088 more than the model predicted. 
