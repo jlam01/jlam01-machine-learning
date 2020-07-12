@@ -10,6 +10,7 @@ Responses: [July 8 Responses](https://jlam01.github.io/jlam01-machine-learning/j
 
 ### **July 9, 2020:**
 Responses: [July 9 Responses](https://jlam01.github.io/jlam01-machine-learning/july9)
+
 Project 1 - Social distancing detector: [July 9 Project 1](https://jlam01.github.io/jlam01-machine-learning/socialdistancingdetector)
 
 ### **July 10, 2020:**
