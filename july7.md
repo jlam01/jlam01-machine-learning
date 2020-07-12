@@ -8,4 +8,13 @@ According to Maroney, the traditional programing is when it is us humans taking 
 
 ### **3. Using the script you produced to predict housing price, take the provided six houses and train a neural net model that estimates the relationship between them.  Based on this model, which of the six homes present a good deal?  Which one is the worst deal?  Justify your answer.**
 
-Based on my model, the house at Holly Point Rd. presents the best deal as you would be spending $134,365 less than what the model predicted. Meanwhile, the house in Church St. would present the worst deal as you would be paying $98,088 more than the model predicted. 
+Based on my model, Hudgins presents the best deal as you would be spending $137,358 less than what the model predicted. Meanwhile, Church would present the worst deal as you would be paying $99,121 more than the model predicted. 
+
+Ranking | House | # of Bedrooms | Price | Predicted Price | Difference
+:---: | :--- | :---: | :---: | :---: | :---:
+1 | Hudgins | 3 | $97,000 | $234,358 | - $137,358
+2 | Mathews | 5 | $347,500 | $365,397 | - $17,897
+3 | Mobjack | 4 | $289,000 | $299,878 | - $10,878
+4 | New Point Comfort | 3 | $229,000 | $234,358 | - $5,358
+5 | Moon | 2 | $250,000 | $168,839 | + $81,161
+6 | Church | 4 | $399,000 | $299,878 | + $99,121
