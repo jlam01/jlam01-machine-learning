@@ -12,7 +12,7 @@ Based on my model, Hudgins presents the best deal as you would be spending $137,
 
 Ranking | House | # of Bedrooms | Price | Predicted Price | Difference
 :---: | :--- | :---: | :---: | :---: | :---:
-1 | Hudgins | 3 | $97,000 | $234,358 | - $137,358
+1 | Hudgins | 3 | $97,000 | $234,358 | `- $137,358`
 2 | Mathews | 5 | $347,500 | $365,397 | - $17,897
 3 | Mobjack | 4 | $289,000 | $299,878 | - $10,878
 4 | New Point Comfort | 3 | $229,000 | $234,358 | - $5,358
