@@ -9,3 +9,8 @@ Optimizer and loss functions work together to help the model learn the relations
 **3. In "text classification with preprocessed text" you produced a graph of training and validation lss. Add the graph to this response and provide a brief explanation.**
 
 **4. Likewise do the same for the training and validation accuracy graph.**
+
+**Error working with the code:**
+Even after copy and pasting the code from tensorflow, I keep on getting errors with imdb_reviews so I haven't been able to complete the exercise due to this:
+
+![imdb_reviews_error](https://user-images.githubusercontent.com/67992204/87238143-e458f000-c3cc-11ea-9a38-faa51b2db325.png)
