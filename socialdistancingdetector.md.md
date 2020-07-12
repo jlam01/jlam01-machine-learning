@@ -11,3 +11,5 @@ I do not think this approach would be effective for estimating new infections in
 In order to ensure that the detector works accurately, I think a top-down view used for the social distancing detector would ensure that perspectives are not messing up with the detector. If possible, in an ideal world, having the program able to detect the perspective and then do its calculations through there would definitely help a lot.
 
 ## **Video used for Social Distancing Detector:**
+
+[Social Distancing Video](https://youtu.be/lJXmNq9o7xw)
