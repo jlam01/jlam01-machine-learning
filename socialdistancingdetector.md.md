@@ -12,4 +12,4 @@ In order to ensure that the detector works accurately, I think a top-down view u
 
 ## **Video used for Social Distancing Detector:**
 
-![Social Distancing Video](https://youtu.be/lJXmNq9o7xw)
+![Social Distancing Video](https://youtu.be/nD6YcaWJme8)
