@@ -10,18 +10,28 @@ In the fashion MIST example, there are 10 neurons as there were 10 possible cate
 
 **C. In the past example we used the optimizer and loss function, while in this one we are using the function adam in the optimizer argument and sparse_categorical-crossentropy for the loss argument.  How do the optimizer and loss functions operate to produce model parameters (estimates) within the model.compile() function?**
 
-The 
+The optimizer function works with the loss function to aid the model to learn about the relationships of the data. The loss function calculates how good or bad an answer is and the optimizer tweaks the machine to make more accurate predictions. Over time, through the functions, the model is compiled to have answers to the training data that fit as accurate as possible to labels of the training data.
 
 **D. Using the mnist drawings dataset (the dataset with the hand written numbers with corresponding labels) answer the following questions.**
 
 ***1. What is the shape of the images training set (how many and the dimension of each)?***
 
+There are total 60,000 images. Each of the images are 28 x 28 px.
+
 ***2. What is the length of the labels training set?***
+
+In the training set, there are 60,000 labels.
 
 ***3. What is the shape of the images test set?***
 
+In the test set, there are 10,000 images. Each image is 28 x 28 px.
+
 ***4. Estimate a probability model and apply it to the test set in order to produce the array of probabilities that a randomly selected image is each of the possible numeric outcomes (look towards the end of the basic image classification exercises for how to do this — you can apply the same method applied to the Fashion MNIST dataset but now apply it to the hand written letters MNIST dataset).***
 
+The array of probabilities of the hand written letters in the the test set in the hand written letters MNIST dataset is: [0.08533676, 0.08533676, 0.08533676, 0.08533692, 0.08533676, 0.08533676, 0.08533676, 0.23196892, 0.08533676, 0.08533677]
+
 ***5. Use np.argmax() with your predictions object to return the numeral with the highest probability from the test labels dataset.***
+
+The most likely numeral for the data is 7.
 
 ***6. Produce the following plot for your randomly selected image from the test dataset***
