@@ -17,7 +17,9 @@ This is Jennifer Lam's public github for Data 310 Applied Machine Learning!
 
 ### **July 10, 2020:**
 - **JumpStart to Data Science Lunch and Learn with Tommy Jones:** [Lunch and Learn Extra Credit](https://jlam01.github.io/jlam01-machine-learning/july10)
+
 ---
+
 ## **Week Two**
 ### **July 12, 2020:**
 - **Responses:**
