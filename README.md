@@ -21,3 +21,5 @@ This is Jennifer Lam's public github for Data 310 Applied Machine Learning!
 ---
 
 ## **Week Two**
+### **July 14, 2020:**
+- **Responses:** [July 14 Responses](https://jlam01.github.io/jlam01-machine-learning/july14)
