@@ -1,6 +1,6 @@
 ### **1. What is TF Hub? How did you use it when creating your script for "text classification of movie reviews"?**
 
-TensorFlow Hub is a library and platform for transfer learning. It was used for the first layer to embed the sentences in the model in the script for "text classification of movie reviews"
+TensorFlow Hub is a library and platform for transfer learning. It was used for the first layer to embed the sentences in the model in the script for "text classification of movie reviews".
 
 ### **2. What are the optimizer and loss functions? How good was your "text classification of movie reviews" model?**
 
@@ -12,6 +12,8 @@ Optimizer and loss functions work together to help the model learn the relations
 
 ## **Error working with the code:**
 
-Even after copy and pasting the code from tensorflow, I keep on getting errors with imdb_reviews so I haven't been able to complete the exercise due to this:
+Even after copying and pasting the code from tensorflow onto pycharm, I keep on getting errors with imdb_reviews so I haven't been able to complete the exercise due to this:
 
 ![imdb_reviews_error](https://user-images.githubusercontent.com/67992204/87238143-e458f000-c3cc-11ea-9a38-faa51b2db325.png)
+
+As a result, this exercise was done through google colab
