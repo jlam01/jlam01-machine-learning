@@ -22,7 +22,9 @@ When you apply a filter to the image, you can extract raw features of an images 
 
 ### **B. Another useful method is pooling.  Apply a 2x2 filter to one of your convolved images, and plot the result.  In effect what have you accomplished by applying this filter?  Can you determine from the code which type of pooling filter is applied, and the method for selecting a pixel value (see the following snippet)?  Did the result increase in size or decrease?  Why would this method be useful?  Stretch goal:  again, instead of using misc.ascent(), apply the pooling filter to one of your transformed images.**
 
+![image](https://user-images.githubusercontent.com/67992204/87748593-501fcc00-c7c4-11ea-98bf-7f2715f5939a.png)
 
+Above is the pooled image of *filter 1* from question A. The size of the image significantly decreased by 1/4 of the original size, however the original extracted features were maintained and emphasized even further. This is due to the fact that this processing of pooling selects the pixels of the highest values in order to create the new image, reducing the amount of noise and the size of the image.
 
 ### **C. The lecture for today (Coding with Convolutional Neural Network) compared the application of our previously specified deep neural network with a newly specified convolutional neural network.  Instead of using the fashion_MNIST dataset, use the mnist dataset (the hand written letters) to train and compare your DNN and CNN output.      Were you able to improve your model by adding the Conv2D and MaxPooling2D layers to your neural network?  Plot the convolutions graphically, include them in your response and describe them.  Edit the convolutions be changing the 32s to either 16 or 64 and describe what impact this had on accuracy and training time.  What happens if you add more convolution layers?**
 
