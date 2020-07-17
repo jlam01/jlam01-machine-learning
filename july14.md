@@ -12,7 +12,7 @@ This filter emphasized the horizontal lines in the image which would aid in iden
 
 This filter identified the vertical lines in the image such as the rungs of the stairs.
 
-## **Filter 3 (-1, -2, -1, -2, 0, 2, -1, 0, 1):**
+**Filter 3 (-1, -2, -1, -2, 0, 2, -1, 0, 1):**
 
 ![image](https://user-images.githubusercontent.com/67992204/87747243-b571be00-c7c0-11ea-8707-65c3625e4080.png)
 
