@@ -16,7 +16,7 @@ This filter identified the vertical lines in the image such as the rungs of the 
 
 ![image](https://user-images.githubusercontent.com/67992204/87747243-b571be00-c7c0-11ea-8707-65c3625e4080.png)
 
-This filter further emphasized the rungs of the stairs and the support structures.
+This filter also emphasizes the rungs of the stairs and the support structures.
 
 When you apply a filter to the image, you can extract raw features of an images while retaining the original image. The application of a convolving filter to an image helps aid in processing images. By extracting the raw features of an image through filtering, it helps the machine identify patterns and recognize key features, essential to identifying items.
 
