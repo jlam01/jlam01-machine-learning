@@ -6,7 +6,7 @@ ImageDataGenerator() from the Keras library takes images and transforms them. Th
 
 ### **2. Describe the model architecture of the horses and humans CNN as you have specified it.  Did you modify the number of filters in your Conv2D layers?  How do image sizes decrease as they are passed from each of your Conv2D layers to your MaxPooling2D layer and on to the next iteration?  Finally, which activation function have you selected for your output layer?  What is the significance of this argument’s function within the context of your CNN’s prediction of whether an image is a horse or a human?  What functions have you used in the arguments of your model compiler?**
 
-The model contains 3 Conv2d layers, each followed by a maxpool layer. Next, there is a flatten followed by two dense layers. As you proceed through each convolution and 
+The model contains 3 Conv2d layers, each followed by a maxpool layer. Next, there is a flatten followed by two dense layers. As you proceed through each convolution and maxpool pair, the size of the images reduces. Sigmid activation was selected for the binary classifier. This allows you to have only one neuron and have an output of 0 for one class and 1 for the other class. For the model compiler, the loss function called binary cross entropy and an optimizer called RMS prop were used.
 
 ## **B.Regression**
 
