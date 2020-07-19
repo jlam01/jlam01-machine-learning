@@ -12,7 +12,13 @@ The model contains 3 Conv2d layers, each followed by a maxpool layer. Next, ther
 
 ### **1.Using the auto-mpg dataset (auto-mpg.data), upload the image where you used the seaborn library to pairwise plot the four variables specified in your model.  Describe how you could use this plot to investigate the co-relationship amongst each of your variables.  Are you able to identify interactions amongst variables with this plot?  What does the diagonal access represent?  Explain what this function is describing with regarding to each of the variables.**
 
+![image](https://user-images.githubusercontent.com/67992204/87864569-d1e43680-c937-11ea-9a30-9a8ca99ca479.png)
+
+This plot is used to investigate the co-relationship amongst the 4 variables 
+
 ### **2.After running model.fit() on the auto-mpg.data data object, you returned the hist.tail() from the dataset where the training loss, MAE & MSE were recorded as well as those same variables for the validating dataset.  What interpretation can you offer when considering these last 5 observations from the model output?  Does the model continue to improve even during each of these last 5 steps?  Can you include a plot to illustrate your answer?  Stretch goal: include and describe the final plot that illustrates the trend of true values to predicted values as overlayed upon the histogram of prediction error.**
+
+![image](https://user-images.githubusercontent.com/67992204/87864867-b67b2a80-c93b-11ea-93bf-0fc75131d629.png)
 
 ## **C.Overfit and underfit**
 
