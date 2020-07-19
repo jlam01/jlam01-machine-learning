@@ -25,3 +25,7 @@ Using this plot, you can infer that the model can no longer improve after the la
 ## **C.Overfit and underfit**
 
 ### **1.What was the significance of comparing the 4 different sized models (tiny, small, medium, large)?  Can you include a plot to illustrate your answer?**
+
+![image](https://user-images.githubusercontent.com/67992204/87867970-db819480-c95f-11ea-99e7-96d92dea4294.png)
+
+As seen through this graph, as the models got larger in size, they became high overfit as the number of epochs increase. In addition, they increasingly took much longer to process.
