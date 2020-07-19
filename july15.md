@@ -20,6 +20,8 @@ This plot is used to investigate the co-relationship amongst the variables, in t
 
 ![image](https://user-images.githubusercontent.com/67992204/87864867-b67b2a80-c93b-11ea-93bf-0fc75131d629.png)
 
+Using this plot, you can infer that the model can no longer improve after the last 5 epochs, thus meaning that increasing the number of epochs will not aid in improving the accuracy of the model.
+
 ## **C.Overfit and underfit**
 
 ### **1.What was the significance of comparing the 4 different sized models (tiny, small, medium, large)?  Can you include a plot to illustrate your answer?**
