@@ -14,7 +14,7 @@ The model contains 3 Conv2d layers, each followed by a maxpool layer. Next, ther
 
 ![image](https://user-images.githubusercontent.com/67992204/87864569-d1e43680-c937-11ea-9a30-9a8ca99ca479.png)
 
-This plot is used to investigate the co-relationship amongst the 4 variables 
+This plot is used to investigate the co-relationship amongst the variables, in this case the 4 variables: MSG, Cylinders, Displacement, and Weights. Using the plots, u can visualize the trends between each variable. For example, as the displacement of the car increases, number of weights also increase. Kernel density is used to determine the univariable plots at the diagonals.
 
 ### **2.After running model.fit() on the auto-mpg.data data object, you returned the hist.tail() from the dataset where the training loss, MAE & MSE were recorded as well as those same variables for the validating dataset.  What interpretation can you offer when considering these last 5 observations from the model output?  Does the model continue to improve even during each of these last 5 steps?  Can you include a plot to illustrate your answer?  Stretch goal: include and describe the final plot that illustrates the trend of true values to predicted values as overlayed upon the histogram of prediction error.**
 
