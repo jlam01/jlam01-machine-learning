@@ -20,7 +20,7 @@ This plot is used to investigate the co-relationship amongst the variables, in t
 
 ![image](https://user-images.githubusercontent.com/67992204/87864867-b67b2a80-c93b-11ea-93bf-0fc75131d629.png)
 
-Using this plot, you can infer that the model can no longer improve after the last 5 epochs, thus meaning that increasing the number of epochs will not aid in improving the accuracy of the model.
+Using this plot, you can infer that the model can no longer improve after the last 5 epochs as the graph has leveled out. Increasing the number of epochs will not aid in improving the accuracy of the model.
 
 ## **C.Overfit and underfit**
 
