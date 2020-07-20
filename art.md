@@ -1,3 +1,5 @@
+For my t-shirt design, I decided to use my own artistic abilities to create the design myself! I used two images, both drawn by myself below:
+
 I am currently working on getting the image files to be imported into the code although I am having some difficulties at the moment.
 While I am trying to get the images to be inputted I would like to share the images I plan to use:
 [image](![image](https://user-images.githubusercontent.com/67992204/87884923-aae13f80-c9df-11ea-88dd-ac10d1c29fae.png))
