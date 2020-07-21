@@ -29,4 +29,4 @@ This is Jennifer Lam's public github for Data 310 Applied Machine Learning!
 - **Responses:** [July 15 Responses](https://jlam01.github.io/jlam01-machine-learning/july15)
 
 ### **July 16, 2020:**
-- **Project 2 - Jump Start Data Science Summer Program Art!:** [July 16 Project 2](https://jlam01.github.io/art)
+- **Project 2 - Jump Start Data Science Summer Program Art!:** [July 16 Project 2](https://jlam01.github.io/jlam01-machine-learning/art)
