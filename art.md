@@ -2,8 +2,8 @@ For my t-shirt design, I decided to use my own artistic abilities to draw the in
 
 **The images used:**
 
-![image](https://user-images.githubusercontent.com/67992204/87994283-8908bb00-caba-11ea-822f-fd6fddfbbf93.png)
 ![image](https://user-images.githubusercontent.com/67992204/87994260-7e4e2600-caba-11ea-9adb-05a6a701cf68.png)
+![image](https://user-images.githubusercontent.com/67992204/87994283-8908bb00-caba-11ea-822f-fd6fddfbbf93.png)
 
 The first image is a tv/monitor character, which is meant to represent data science and the connection between traditional programming and machine learning. Traditional program requires the programmer to manually figure out the rules that are involved in getting the answers we want. However, for machines, in machine learning, the machines themselves figure out the rules for the programmer. It does the thinking for the programmer. That is what inspired the first image.
 
