@@ -7,10 +7,10 @@ Medical professionals, specifially radiologists need to classify and identify x-
 Through the classification of X-ray images using machine learning, it can help medical professionals identify individuals with problems shown through their x-ray scans much easier and quicker. This will help medical professionals diagnose individuals at a much quicker speed, which is important if the issue is something urgent.
 
 **Description of the problem as a process**:
-In order to diagnose a issue that can be found through x-ray scans, the medical professional must analyze and compare the x-ray images with a normal healthy x-ray image. This requires a lot of time and is crucial expecially if it is something time-limited. Having something that can classify the x-ray images will greatly reduce the amount of time required to analyze these x-ray images.
+In order to diagnose a issue that can be found through x-ray scans, the medical professional must analyze and compare the x-ray images with a normal healthy x-ray image. This requires a lot of time and is crucial expecially if it is something time-limited. Having something that can classify the x-ray images will greatly reduce the amount of time required to analyze these x-ray images. 
 
 **Obstacles:**
-The x-ray images might have trouble identifying the unhealthy x-ray image and misdiagnose the patient.
+Firstly, we need to somehow obtain the x-ray images. In order to train the model, we must already have a set of images that are already classfied based on what is considered a normal healthy x-ray image and an unhealthy one. In addition, there may be several conditions shown in that x-ray scan and the model has to be able to identify which difference is the important thing to look out for in certain x-ray scans if we are trying to pinpoint certain illnesses rather than whether or not it is generally healthy.
 
 
 ## **B.Up next for your final project: data (then after that: methods)**
@@ -22,8 +22,16 @@ As there are many x-ray images and many cases to look into, I will be looking at
 
 ### **1.Which optimizer have you selected, and how might it compare to other possible choices?  (have a look at this site - https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a)**
 
+The RMSprop, root mean square prop, optimizer was chosen over Rprop as it not only accounts for the big dataset that is used for cats and dogs but also for the gradients in the images used. RMSprop keeps the moving average of the squared gradients for each weight and divides the gradient by square root the mean square.
+
 ### **2.Describe your selected loss function and it’s implementation.  How is it effectively penalizing bad predictions? (have a look at this site - https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a)**
+
+The loss function selected is binary crossentropy due to the fact that it is a classification between only 2 things, thus binary. Binary crossentropy calcuates the probability of picking one out of the available 2 classifications, follows that with the calculation of entropy and crossentropy, and compares it in a Kullback-Leiber Divergence.
 
 ### **3.What is the purpose of the metric= argument in your model.compile() function? (look here - https://keras.io/api/metrics/)**
 
+The metric argument calculates for how often the predicted answers are accurate to the actual answers.
+
 ### **4.Plot the accuracy and loss results for both the training and test datasets.  Include these in your response.  Assess the model and describe how good you think it performed.5.Use the model to predict 3 dog images and 3 cat images.  Upload you images and the prediction.  How did your model perform in practice?  Do you have any ideas of how to improve the model’s performance?**
+
+
