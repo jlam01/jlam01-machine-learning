@@ -14,7 +14,7 @@ Firstly, we need to somehow obtain the x-ray images. In order to train the model
 
 
 ## **B.Up next for your final project: data (then after that: methods)**
-As there are many x-ray images and many cases to look into, I will be looking at pneumonia and x-ray images of the lungs between a healthy patient and a pnemonic patient.
+As there are many x-ray images and many cases to look into, I will be looking at pneumonia and x-ray images of the lungs between a healthy patient and a pnemonic patient with the data set found here: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/version/2
 
 ## **C.Go to the website http://cs229.stanford.edu/proj2017/ and review some of the posters for the University of Stanford’s Fall 2017 machine learning course.  Consider how you will design and present your final project as a poster.**
 
@@ -54,5 +54,5 @@ This graph represents the training (red) and validation (blue) loss. Similarly t
 ![image](https://user-images.githubusercontent.com/67992204/88450421-c8b60680-ce1c-11ea-9473-352e80892bdc.png)
 ![image](https://user-images.githubusercontent.com/67992204/88450428-d4093200-ce1c-11ea-8646-d74c0ca5c3e0.png)
 
-Out of the following images above, the dogs
+Out of the following images above, my model accurately classified all of the photos as dogs and cats respectively.
 
