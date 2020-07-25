@@ -38,13 +38,13 @@ The metric argument calculates for how often the predicted answers are accurate 
 
 ![image](https://user-images.githubusercontent.com/67992204/88450913-94444980-ce20-11ea-8dff-ddecbb74f23f.png)
 
-This graph above represents the training (red) and validation (blue) accuracy. Around the 6th epoch is where the graph spikes which is where the training of the model is most likely should come to a halt.
+This graph above represents the training (red) and validation (blue) accuracy. Around the 3rd epoch is where the training of the model is most likely should come to a halt as the model has become overfit.
 
 **Loss:**
 
 ![image](https://user-images.githubusercontent.com/67992204/88450920-9a3a2a80-ce20-11ea-9e5a-f3acc4b3248f.png)
 
-This graph represents the training (red) and validation (blue) loss. Similarly to the accuracy graph, there is a massive spike at the 6th epoch which is where training of the model should most likely come to a halt.
+This graph represents the training (red) and validation (blue) loss. Similarly to the accuracy graph, the training of the model should most likely come to a halt at the 3rd as the model has become overfit for the data.
 
 **Dogs and Cats:**
 ![image](https://user-images.githubusercontent.com/67992204/88450326-29910f00-ce1c-11ea-9340-8cf05cb4df22.png)
