@@ -38,10 +38,13 @@ The metric argument calculates for how often the predicted answers are accurate 
 
 ![image](https://user-images.githubusercontent.com/67992204/88450269-bf786a00-ce1b-11ea-8537-fad73de232fb.png)
 
-This graph above represents the training (red) and validation (blue) accuracy. Around the 6th epoch is where the graph spikes
+This graph above represents the training (red) and validation (blue) accuracy. Around the 6th epoch is where the graph spikes which is where the training of the model is most likely should come to a halt.
+
 **Loss:**
 
 ![image](https://user-images.githubusercontent.com/67992204/88450277-ca32ff00-ce1b-11ea-914f-655d6d1a386a.png)
+
+This graph represents the training (red) and validation (blue) loss. Similarly to the accuracy graph, there is a massive spike at the 6th epoch which is where training of the model should most likely come to a halt.
 
 **Dogs and Cats:**
 ![image](https://user-images.githubusercontent.com/67992204/88450326-29910f00-ce1c-11ea-9340-8cf05cb4df22.png)
@@ -51,5 +54,5 @@ This graph above represents the training (red) and validation (blue) accuracy. A
 ![image](https://user-images.githubusercontent.com/67992204/88450421-c8b60680-ce1c-11ea-9473-352e80892bdc.png)
 ![image](https://user-images.githubusercontent.com/67992204/88450428-d4093200-ce1c-11ea-8646-d74c0ca5c3e0.png)
 
-Out of the 
+Out of the following images above, the dogs
 
