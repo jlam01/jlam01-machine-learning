@@ -34,4 +34,22 @@ The metric argument calculates for how often the predicted answers are accurate 
 
 ### **4.Plot the accuracy and loss results for both the training and test datasets.  Include these in your response.  Assess the model and describe how good you think it performed.5.Use the model to predict 3 dog images and 3 cat images.  Upload you images and the prediction.  How did your model perform in practice?  Do you have any ideas of how to improve the model’s performance?**
 
+**Accuracy:**
+
+![image](https://user-images.githubusercontent.com/67992204/88450269-bf786a00-ce1b-11ea-8537-fad73de232fb.png)
+
+This graph above represents the training and validation accuracy. Around
+**Loss:**
+
+![image](https://user-images.githubusercontent.com/67992204/88450277-ca32ff00-ce1b-11ea-914f-655d6d1a386a.png)
+
+**Dogs and Cats:**
+![image](https://user-images.githubusercontent.com/67992204/88450326-29910f00-ce1c-11ea-9340-8cf05cb4df22.png)
+![image](https://user-images.githubusercontent.com/67992204/88450370-7a086c80-ce1c-11ea-8ba6-61506705f8bf.png)
+![image](https://user-images.githubusercontent.com/67992204/88450386-91475a00-ce1c-11ea-9254-32ff3b6ed675.png)
+![image](https://user-images.githubusercontent.com/67992204/88450400-a6bc8400-ce1c-11ea-8158-3f95ef75c43e.png)
+![image](https://user-images.githubusercontent.com/67992204/88450421-c8b60680-ce1c-11ea-9473-352e80892bdc.png)
+![image](https://user-images.githubusercontent.com/67992204/88450428-d4093200-ce1c-11ea-8646-d74c0ca5c3e0.png)
+
+Out of the 
 
