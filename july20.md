@@ -38,7 +38,7 @@ The metric argument calculates for how often the predicted answers are accurate 
 
 ![image](https://user-images.githubusercontent.com/67992204/88450269-bf786a00-ce1b-11ea-8537-fad73de232fb.png)
 
-This graph above represents the training and validation accuracy. Around
+This graph above represents the training (red) and validation (blue) accuracy. Around
 **Loss:**
 
 ![image](https://user-images.githubusercontent.com/67992204/88450277-ca32ff00-ce1b-11ea-914f-655d6d1a386a.png)
