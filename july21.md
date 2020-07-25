@@ -26,6 +26,12 @@ The command classifier.train() runs the model with the provided data. Classifier
 
 ### **5. Redefine your classifier using the DNNLinearCombinedClassifier() as well as the LinearClassifier().  Retrain your model and compare the results using the three different estimators you instantiated.  Rank the three estimators in terms of their performance.**
 
+Rank | Classifier | Accuracy
+--- | --- | ---
+1 | LinearClassifer | 0.967
+2 | DNNClassifier | 0.767
+3 | DNNLinearCombinedClassifier |  0.533
+
 ## **B. Build a Linear Model**
 
 ### **1. Using the dftrain dataset, upload an image where you used the seaborn library to produce a sns.pairplot().  Also include a histogram of age using the training set and compare it to the seaborn plot for that same feature (variable).  What interpretation can you provide of the data based on this plot?**
