@@ -27,7 +27,7 @@ The command classifier.train() runs the model with the provided data. Classifier
 ### **5. Redefine your classifier using the DNNLinearCombinedClassifier() as well as the LinearClassifier().  Retrain your model and compare the results using the three different estimators you instantiated.  Rank the three estimators in terms of their performance.**
 
 Rank | Classifier | Accuracy
---- | ---: | :---
+--- | :---: | :---
 1 | LinearClassifer | 0.967
 2 | DNNClassifier | 0.767
 3 | DNNLinearCombinedClassifier |  0.533
