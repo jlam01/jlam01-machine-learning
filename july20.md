@@ -36,13 +36,13 @@ The metric argument calculates for how often the predicted answers are accurate 
 
 **Accuracy:**
 
-![image](https://user-images.githubusercontent.com/67992204/88450269-bf786a00-ce1b-11ea-8537-fad73de232fb.png)
+![image](https://user-images.githubusercontent.com/67992204/88450913-94444980-ce20-11ea-8dff-ddecbb74f23f.png)
 
 This graph above represents the training (red) and validation (blue) accuracy. Around the 6th epoch is where the graph spikes which is where the training of the model is most likely should come to a halt.
 
 **Loss:**
 
-![image](https://user-images.githubusercontent.com/67992204/88450277-ca32ff00-ce1b-11ea-914f-655d6d1a386a.png)
+![image](https://user-images.githubusercontent.com/67992204/88450920-9a3a2a80-ce20-11ea-9e5a-f3acc4b3248f.png)
 
 This graph represents the training (red) and validation (blue) loss. Similarly to the accuracy graph, there is a massive spike at the 6th epoch which is where training of the model should most likely come to a halt.
 
