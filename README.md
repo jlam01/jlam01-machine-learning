@@ -16,7 +16,7 @@ This is Jennifer Lam's public github for Data 310 Applied Machine Learning!
 - **Project 1 - Social distancing detector:** [July 9 Project 1](https://jlam01.github.io/jlam01-machine-learning/socialdistancingdetector)
 
 ### **July 10, 2020:**
-- **JumpStart to Data Science Lunch and Learn with Tommy Jones:** [Lunch and Learn Extra Credit](https://jlam01.github.io/jlam01-machine-learning/july10)
+- **JumpStart to Data Science Lunch and Learn with Tommy Jones:** [Tommy Jones Lunch and Learn](https://jlam01.github.io/jlam01-machine-learning/july10)
 
 ---
 
@@ -45,3 +45,7 @@ This is Jennifer Lam's public github for Data 310 Applied Machine Learning!
 - **Responses:** [July 22 Responses](https://jlam01.github.io/jlam01-machine-learning/july22)
 
 ### **July 23, 2020**
+-
+
+### **July 24, 2020**
+- **JumpStart to Data Science Lunch and Learn with Ben Arancibia and Jasper Liu:** [Ben Arancibia and Jasper Liu Lunch and Learn](https://jlam01.github.io/jlam01-machine-learning/july24)
