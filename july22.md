@@ -12,8 +12,6 @@ A dense feature will define any lack of data as the value of 0. This is especial
 
 ![image](https://user-images.githubusercontent.com/67992204/88469723-5992ed80-cec2-11ea-8fbb-fcad1ccad98e.png)
 
-
-
 ## **B. Boosted Trees continued (with model understanding)**
 
 ### **1. Upload your feature values contribution to predicted probability horizontal bar plot as well as your violin plot.  Interpret and discuss the two plots.  Which features appear to contribute the most to the predicted probability?**
