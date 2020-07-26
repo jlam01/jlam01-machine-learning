@@ -10,6 +10,9 @@ A dense feature will define any lack of data as the value of 0. This is especial
 
 ### **3. Provide a histogram of the probabilities for the logistic regression as well as your boosted tree model.  How do you interpret the two different models?  Are their predictions essentially the same or is there some area where they are noticeable different.  Plot the probability density function of the resulting probability predictions from the two models and use them to further illustrate your argument.  Include the ROC plot and interpret it with regard to the proportion of true to false positive rates, as well as the area under the ROC curve.  How does the measure of the AUC reflect upon the predictive power of your model?**
 
+![image](https://user-images.githubusercontent.com/67992204/88469723-5992ed80-cec2-11ea-8fbb-fcad1ccad98e.png)
+
+
 
 ## **B. Boosted Trees continued (with model understanding)**
 
