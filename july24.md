@@ -4,7 +4,7 @@
 
 **Jasper Liu**, on the other hand, double majored in economics and math at W&M and acquired a masters in mathematical finance from Boston University Questrom School of Business. He worked in finance and in the slowly moving and highly regulated field of insurance with Liberty Mutual. He wanted to go into a faster moving field and ended up working in wayfare for pricing work as a pricing analyst, analyzing supply and demand. He went to TripAdvisor  and was the head of data science for flights, cars, and cruise.
 
-Some tips given during the lunch and learn includes:
+**Some tips given during the lunch and learn includes:**
 
 - Go out there and get exposure and experience. Get your feet into the industry. Get the experience and take your chances. The first job is usually hard to get but after that, once you get the experiences in, it gets easier.
 
