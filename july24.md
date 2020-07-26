@@ -1,4 +1,4 @@
-## **Jump-Start to Data Science Lunch and Learn with Ben Arancibia and Jasper Liu
+### **Jump-Start to Data Science Lunch and Learn with Ben Arancibia and Jasper Liu**
 
 Ben Arancibia has a BA in international relations and environmental policy focusing on quantitative economics from W&M and a masters in data science from Univeersity of New York. He worked in GIS analysis and as a GIS developer. He currently works at GSK which is a British multinational pharmaceutical company. Jasper Liu, on the other hand, double majored in economics and math at W&M and acquired a masters in mathematical finance from Boston University Questrom School of Business. He worked in finance and in the slowly moving and highly regulated field of insurance with Liberty Mutual. He wanted to go into a faster moving field and ended up working in wayfare for pricing work as a pricing analyst, analyzing supply and demand. He went to TripAdvisor  and was the head of data science for flights, cars, and cruise.
 
