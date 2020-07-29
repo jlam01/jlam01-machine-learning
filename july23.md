@@ -1,1 +1,1 @@
-
+I have been having trouble running the code with pycharm as I have been running the codes via google colab instead. However, what I have been able to do is train the model with a CNN containing a convolutional layer of 32 neurons and a dense layer with 500 neurons with the activations as relu.
