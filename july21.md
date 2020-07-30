@@ -36,6 +36,16 @@ Rank | Classifier | Accuracy
 
 ### **1. Using the dftrain dataset, upload an image where you used the seaborn library to produce a sns.pairplot().  Also include a histogram of age using the training set and compare it to the seaborn plot for that same feature (variable).  What interpretation can you provide of the data based on this plot?**
 
+**Seaborn Plot:**
+
+![image](https://user-images.githubusercontent.com/67992204/88883365-24f49e00-d202-11ea-98ff-f378586758bb.png)
+
+**Histogram of Age:**
+
+![image](https://user-images.githubusercontent.com/67992204/88883399-3f2e7c00-d202-11ea-8370-8a7437dbcc4a.png)
+
+
+
 ### **2. What is the difference between a categorial column and a dense feature?**
 
 ### **3. Describe the feature columns that have been input to your LinearClassifier().  How would you assess the result from your initial output?  What is the purpose of adding a cross featured column?  Did your attempt to capture the interaction between age and gender and incorporate it into your model improve performance?  Include and interpret your predicted probabilities and ROC curve plots.**
