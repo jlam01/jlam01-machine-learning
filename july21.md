@@ -48,4 +48,6 @@ The histogram of age resembles the middle distribution pairplot of age compared 
 
 ### **2. What is the difference between a categorial column and a dense feature?**
 
+A categorical
+
 ### **3. Describe the feature columns that have been input to your LinearClassifier().  How would you assess the result from your initial output?  What is the purpose of adding a cross featured column?  Did your attempt to capture the interaction between age and gender and incorporate it into your model improve performance?  Include and interpret your predicted probabilities and ROC curve plots.**
