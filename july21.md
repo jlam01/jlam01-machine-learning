@@ -44,7 +44,7 @@ Rank | Classifier | Accuracy
 
 ![image](https://user-images.githubusercontent.com/67992204/88883399-3f2e7c00-d202-11ea-8370-8a7437dbcc4a.png)
 
-
+The histogram of age resembles the middle distribution pairplot of age compared with age.
 
 ### **2. What is the difference between a categorial column and a dense feature?**
 
