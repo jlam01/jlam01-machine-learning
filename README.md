@@ -54,11 +54,11 @@ This is Jennifer Lam's public github for Data 310 Applied Machine Learning!
 
 ## **Week Four**
 
-### **July 27, 2020**
-- **Responses:** [July 27 Responses](https://jlam01.github.io/jlam01-machine-learning/july27)
-
 ### **July 28, 2020**
 - **Responses:** [July 28 Responses](https://jlam01.github.io/jlam01-machine-learning/july20)
 
 ### **July 29, 2020**
 - **Responses:** [July 29 Responses](https://jlam01.github.io/jlam01-machine-learning/july29)
+
+## **July 30, 2020**
+- **Project 4 - Text Generation:** [July 30 Project 4](https://jlam01.github.io/jlam01-machine-learning/textgeneration)
