@@ -49,3 +49,16 @@ This is Jennifer Lam's public github for Data 310 Applied Machine Learning!
 
 ### **July 24, 2020**
 - **JumpStart to Data Science Lunch and Learn with Ben Arancibia and Jasper Liu:** [Ben Arancibia and Jasper Liu Lunch and Learn](https://jlam01.github.io/jlam01-machine-learning/july24)
+
+---
+
+## **Week Four**
+
+### **July 27, 2020**
+- **Responses:** [July 27 Responses](https://jlam01.github.io/jlam01-machine-learning/july27)
+
+### **July 28, 2020**
+- **Responses:** [July 28 Responses](https://jlam01.github.io/jlam01-machine-learning/july20)
+
+### **July 29, 2020**
+- **Responses:** [July 29 Responses](https://jlam01.github.io/jlam01-machine-learning/july29)
