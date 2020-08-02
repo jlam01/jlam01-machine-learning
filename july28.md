@@ -17,3 +17,12 @@ The above graph here represents the training and validation accuracy over a cert
 ## Text Classification with an RNN
 
 ### **1. Again compile and train the model from the tensorflow exercise.  Plot the training and validation loss as well as accuracy.  Stack two or more LSTM layers in your model.  Post your plots and describe them**
+
+![image](https://user-images.githubusercontent.com/67992204/89114412-08e33d80-d44a-11ea-84da-0d8f0a9ca62b.png)
+
+The above graph here is the training and validation accuracy over a certain number of epochs with the training accuracy being blue and the validation accuracy being orange.
+
+![image](https://user-images.githubusercontent.com/67992204/89114417-113b7880-d44a-11ea-9cd1-9f157f25cc3a.png)
+![image](https://user-images.githubusercontent.com/67992204/89114420-1ac4e080-d44a-11ea-9b22-1268f1a2131d.png)
+![image](https://user-images.githubusercontent.com/67992204/89114422-21535800-d44a-11ea-9766-907718de310f.png)
+
