@@ -12,9 +12,7 @@ The above graph represents the training and validation loss over a certain numbe
 
 ![image](https://user-images.githubusercontent.com/67992204/89113720-81460080-d442-11ea-8647-0a6a9ecce8c1.png)
 
-The above graph here represents the training and validation accuracy over a certain number of epochs with the dots representing the training accuracy and the line representing the validation accuracy.
-
-### **3.Stretch Goal:  Follow the link to the Embedding Projector provided at the end of the exercise.  Produce the visualization of your embeddings.  Interpret your visualization.  What is it describing?  Is there relevance with regard to words that are proximate to each other?**
+The above graph here represents the training and validation accuracy over a certain number of epochs with the dots representing the training accuracy and the line representing the validation accuracy. According to the graph, approximately the 6th epoch is the best place to stop the model training as it seems to be overfit after.
 
 ## Text Classification with an RNN
 
