@@ -28,7 +28,9 @@ The above graph represents the training and validation loss over a certain numbe
 
 ![image](https://user-images.githubusercontent.com/67992204/89114420-1ac4e080-d44a-11ea-9b22-1268f1a2131d.png)
 
-The above graph here represents the training and validation accuracy over a certain number of epochs on a model with 2 or more LSTM layers. The training accuracy is blue with the validation accuracy being orange.
+The above graph here represents the training and validation accuracy over a certain number of epochs on a model with 2 or more LSTM layers. The training accuracy is blue with the validation accuracy being orange. After 1 epoch, the validation accuracy goes below the training accuracy and plateaus, representing the overfitting of the model.
 
 ![image](https://user-images.githubusercontent.com/67992204/89114422-21535800-d44a-11ea-9766-907718de310f.png)
+
+The above graph here shows the training and validation loss over a certain number of epochs on a model with 2 or more LSTM layers. The training loss  is shown in blue with the validation loss represented by the orange. After 1 epoch, the training loss reduces significantly, showing that the model has gotten overfit.
 
