@@ -6,6 +6,12 @@ The use of one-hot encoding is inefficient towards vectoring a corpus of words a
 
 ### **2. Compile and train the model from the tensorflow exercise.  Plot the training and validation loss as well as accuracy.  Post your plots and describe them.**
 
+![image](https://user-images.githubusercontent.com/67992204/89113713-71c6b780-d442-11ea-9213-a2b2b414f6d8.png)
+
+The above graph represents the training and validation loss over a certain number of epochs.
+
+![image](https://user-images.githubusercontent.com/67992204/89113720-81460080-d442-11ea-8647-0a6a9ecce8c1.png)
+
 ### **3.Stretch Goal:  Follow the link to the Embedding Projector provided at the end of the exercise.  Produce the visualization of your embeddings.  Interpret your visualization.  What is it describing?  Is there relevance with regard to words that are proximate to each other?**
 
 ## Text Classification with an RNN
