@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/67992204/89577556-dac17d00-d7fe-11ea-9df7-46fa8f9a3134.png)
+![image](https://user-images.githubusercontent.com/67992204/89578143-b914c580-d7ff-11ea-93cc-046e460824aa.png)
 
 ### **Problem Statement:**
 
