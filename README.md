@@ -68,5 +68,5 @@ This is Jennifer Lam's public github for Data 310 Applied Machine Learning!
 ## **Week Five**
 
 ### **Final Project**
-- **Classification of X-ray Scans using Machine Learning:** [Classifying X-ray Scans](https://jlam01.github.io/jlam01-machine-learning/final)
+- **Classification of X-ray Scans using Machine Learning:** [Final](https://jlam01.github.io/jlam01-machine-learning/final)
 
