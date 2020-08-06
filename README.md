@@ -62,3 +62,10 @@ This is Jennifer Lam's public github for Data 310 Applied Machine Learning!
 
 ## **July 30, 2020**
 - **Project 4 - Text Generation:** [July 30 Project 4](https://jlam01.github.io/jlam01-machine-learning/textgeneration)
+
+---
+
+## **Week Five**
+
+### **Final Project**
+- **Classification of X-ray Scans using Machine Learning:** [Classifying X-ray Scans](https://jlam01.github.io/jlam01-machine-learning/final)
