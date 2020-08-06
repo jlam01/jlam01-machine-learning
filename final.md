@@ -15,3 +15,15 @@ While applying this model, an obstacle that may occur is through the accuracy of
 The data used here were chest x-ray images (anterior-posterior) of pneumonic and normal lungs from pediatric patients of 1-5 yrs old from Guangzhou Women and Children’s Medical Center, Guanzhou. The dataset contained a total of 5856 images used for training and testing.
 
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/download
+
+### **Method:**
+
+![image](https://user-images.githubusercontent.com/67992204/89578470-2f192c80-d800-11ea-9098-a9c64179bc03.png)
+
+The data was trained at 50 epochs with 100 steps per epoch.
+
+### **Method Performance:**
+
+After running the CNN model, the model was able to reach approximately 90% accuracy on the testing set and 97% accuracy on the training set; there was 0.3506 loss in the testing and  0.0772 loss in the training. This suggests the model is slightly overfit.
+
+Although this model was performed on chest x-ray scans, what would be interesting to see is how well other types of scans and scans of other regions would work with this type of coding.
