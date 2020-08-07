@@ -26,4 +26,6 @@ The data was trained at 50 epochs with 100 steps per epoch.
 
 After running the CNN model, the model was able to reach approximately 90% accuracy on the testing set and 97% accuracy on the training set; there was 0.3506 loss in the testing and  0.0772 loss in the training. This suggests the model is slightly overfit.
 
-Although this model was performed on chest x-ray scans, what would be interesting to see is how well other types of scans and scans of other regions would work with this type of coding.
+
+### **Project Proposal:**
+As this project was performed on only chest x-ray scans, I would like to have been able to try out x-ray scans at other regions of the body as well as other scans such as MRI and CAT to see if machine learning is possible to be used in the field of radiology. I would need acquire these scans from radiologists with some already analyzed to be used for training. If possible, if the model works on any type of scan, then it would greatly help with the analysis of scans and help radiologists.
