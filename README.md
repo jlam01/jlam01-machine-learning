@@ -1,5 +1,5 @@
 # Data 310 Applied Machine Learning
-This is Jennifer Lam's public github for Data 310 Applied Machine Learning!
+This is Jennifer Lam's public github for Data 310 Applied Machine Learning! Data 310 Applied Machine Learning is part of the 
 
 ---
 
